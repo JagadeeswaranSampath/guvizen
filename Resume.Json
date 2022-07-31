@@ -1,0 +1,84 @@
+// My resume in JSON
+[
+    {
+    "basics": {
+      "name": "Jagadeeswaran Sampath",
+      "label": "",
+      "picture": "",
+      "email": "samjagadeesh777@gmail.com",
+      "phone": "8220735630",
+      "degree": "Bachelor Of Engineering",
+      "website": "https://www.linkedin.com/",
+      "summary": "I believe there are 2 types of people, one who believe that the future can't be seen, others who are building it, I fall in the latter category because I am too restless to sit and wait for things to happen, I am someone who likes to catalyze the events to reach the future faster, previously I was working on my own startup in the education and learning space, had 800k+ users as on 31/12/2020.",
+      "location": {
+        "address": "Suburayan Nagar, Paraniputhur",
+        "postalCode": "600122",
+        "city": "Chennai",
+        "countryCode": "India",
+        "region": "tamilnadu"
+      },
+      "profiles": [
+        {
+          "network": "Linkedin",
+          "username": "JagadeeswaranSampath",
+          "url": "https://www.linkedin.com/in/JagadeeswaranSampath/"
+        }
+      ]
+    },
+    "work": [
+      {
+        "company": "CTS",
+        "position": "PA",
+        "website": " ",
+        "startDate": "2019-11-16",
+        "endDate": "",
+        "summary": "A one-sentence to one-paragraph summary of this employer or position",
+        "highlights": [
+          "Bullet-point list items that you would like to include along with (or instead of) a summary paragraph."
+        ]
+      }
+    ],
+    
+    "education": [
+      {
+        "institution": "Muthukumaran Institute Of Technology",
+        "area": "Bachelor of Engineering",
+        "studyType": "Graduation",
+        "courses": [
+          " electronics and communication Engineering"
+        ]
+      }
+    ],
+    "awards": [
+      {
+        "title": "Your award title",
+        "date": "Your date, in YYYY-MM-DD format you received the award",
+        "awarder": "Your award given by",
+        "summary": "A one-sentence to one-paragraph overview of this award"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Website  Developer",
+        "level": "Full Stack",
+        "keywords": [
+          "Javascript, ReactJs, MongoDB, ExpressJs, NodeJs, HTML, CSS"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "fluency": "Mother Toungue"
+      }
+    ],
+    "interests": [
+      {
+        "name": "Sports, trading",
+        "keywords": [
+          "Cricket"
+        ]
+      }
+    ]
+  }
+]
